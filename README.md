@@ -20,5 +20,7 @@ In questo documento ricapitolando andremo a coprire 3 punti principali
 ![Protomat_42_Schematics_1](https://github.com/user-attachments/assets/f49a32e9-4557-433c-9969-6609ffc4387a)
 XXX FOTO STRUTTURA DI RITORNO TESTA xxx
    ## Struttura di movimento delle assi
-
+   Le assi sono controllare da 2 servomotori COD. C9783-9212K, che vanno a controllare i due assi ,tramite un meccanismo a vite a ricircolo di sfere(Ball Screw) e delle guide lineari, servomotori di ricambio sono disponibili a un prezzo molto contenuto (intorno ai 100 euro cad.)
+   ![Protomat_42_Schematics_2](https://github.com/user-attachments/assets/46ac16c5-b4ae-402b-b0fb-f9cbe28cb19c)
+XXX FOTO STRUTTURA BALL SCREW E SERVOMOTORI XXX
 
