@@ -32,7 +32,7 @@ XXX FOTO STRUTTURA DI RITORNO TESTA xxx
 XXX FOTO STRUTTURA BALL SCREW E SERVOMOTORI XXX
 
 ## Struttura di protezione e isolamento acustico, aspiratore e telecamera
-   La macchina ha vari optional tra cui 
+   La macchina ha vari optional tra cui :
   ### Custodia di protezione e isolamento acustico
    Una custodia che funge da protezione e da isolante acustico, abbiamo la fortuna di avere una macchina con questo tipo di optional
 ## Telecamera per creazione di buchi referenziali
