@@ -6,6 +6,7 @@ a Boardmaster software utilizzato per operare il macchinario.
 Il macchinario inizialmente si trovava in stato di inutilizzo, a causa della non operabilità dell'asse Z rendendo il macchinario inutilizzabile, grazie alla coordinazione di vari professori
 che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto la possibilità di tentare e di riuscire a portare in vita il macchinario.
 ![Protomat_S42](https://github.com/user-attachments/assets/516e50e7-f114-4863-9997-c0e784f4d568)
+![Screenshot (4)](https://github.com/user-attachments/assets/d93d0a22-a2a2-467e-a408-d9e9a261da38)
 
 ## Il documento si divide in 3 punti principali
    __1. Funzionamento Hardware e componenti che consentono l'operabilità del macchinario, e come è stato diagnosticato il problema__
