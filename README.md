@@ -9,5 +9,5 @@ che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto 
 In questo documento ricapitolando andremo a coprire 3 punti principali
 1. Funzionamento Hardware e componenti necessari atti a consentire l'operabilità del macchinario
 2. Funzionamento e utilizzo dei software principale (BM e CircuitCam)
-3. Design e Prototipazione di una schema STM32
+3. Design e Prototipazione di una scheda STM32, seguendo le linee guida del produttore
 
