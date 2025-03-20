@@ -10,4 +10,5 @@ In questo documento ricapitolando andremo a coprire 3 punti principali
 1. Funzionamento Hardware e componenti che consentono l'operabilità del macchinario, e come è stato diagnosticato il problema
 2. Funzionamento e utilizzo dei software principali (BM e CircuitCam)
 3. Design e Prototipazione di una scheda STM32, seguendo le linee guida del produttore
+![Protomat_42_Schematics_1](https://github.com/user-attachments/assets/f49a32e9-4557-433c-9969-6609ffc4387a)
 
