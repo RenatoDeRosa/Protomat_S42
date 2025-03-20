@@ -43,7 +43,7 @@ XXX FOTO STRUTTURA BALL SCREW E SERVOMOTORI XXX
    ![fiducial camera](https://github.com/user-attachments/assets/16099803-8641-44bc-84db-1c4dcf4e1ae5)
 
    
-## Aspiratore polveri di vetronita (Rame e Fibra di vetro mischiata a resina)
+## Aspiratore polveri di vetronite (FR4)
    Mentre la telecamera è facilmente sostituibile con soluzioni relativamente economiche, l'aspiratore dovendo filtrare materiale quale polveri di vetronite, materiale che può
    provocare danni alle vie respiratorie necessità di essere equipaggiato con filtri adatti al tipo di polveri che andrà a rimuovere, sembrerebbe essere sostituibile con un 
    JetStream Dust Collector by quatro, l'unità originale sembrerebbe essere un rebrand e i filtri usati appartengono a questa casa produttrice, ma qualsiasi estrattore con un
