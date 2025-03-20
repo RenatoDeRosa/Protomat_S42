@@ -8,6 +8,6 @@ che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto 
 
 In questo documento ricapitolando andremo a coprire 3 punti principali
 1. Funzionamento Hardware e componenti che consentono l'operabilità del macchinario, e come è stato diagnosticato il problema
-2. Funzionamento e utilizzo dei software principale (BM e CircuitCam)
+2. Funzionamento e utilizzo dei software principali (BM e CircuitCam)
 3. Design e Prototipazione di una scheda STM32, seguendo le linee guida del produttore
 
