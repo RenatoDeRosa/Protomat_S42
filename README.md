@@ -39,8 +39,15 @@ XXX FOTO STRUTTURA BALL SCREW E SERVOMOTORI XXX
    purtroppo per quanto riguarda  la telecamera non ne siamo in possesso
    la funzione della telecamera può essere facilmente sostituito da una telecamera generica USB e da un software come openPNP per gestire l'offset della telecamera ed averla
    perfettamente all'ineata alla punta (cosa che andremo a montare e trattare successivamente)
+   
+   ![fiducial camera](https://github.com/user-attachments/assets/16099803-8641-44bc-84db-1c4dcf4e1ae5)
+
+   
 ## Aspiratore polveri di vetronita (Rame e Fibra di vetro mischiata a resina)
    Mentre la telecamera è facilmente sostituibile con soluzioni relativamente economiche, l'aspiratore dovendo filtrare materiale quale polveri di vetronite, materiale che può
    provocare danni alle vie respiratorie necessità di essere equipaggiato con filtri adatti al tipo di polveri che andrà a rimuovere, sembrerebbe essere sostituibile con un 
    JetStream Dust Collector by quatro, l'unità originale sembrerebbe essere un rebrand e i filtri usati appartengono a questa casa produttrice, ma qualsiasi estrattore con un
    sistema di filtraggio adeguato è adatto
+  
+   ![vacuum](https://github.com/user-attachments/assets/709ce684-95ca-42df-b70b-fae999fa515f)
+
