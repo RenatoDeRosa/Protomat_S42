@@ -7,7 +7,7 @@ Il macchinario inizialmente si trovava in stato di inutilizzo, a causa della non
 che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto la possibilità di tentare di portare in vita il macchinario.
 
 In questo documento ricapitolando andremo a coprire 3 punti principali
-1. Funzionamento Hardware e componenti necessari atti a consentire l'operabilità del macchinario
+1. Funzionamento Hardware e componenti necessari atti a consentire l'operabilità del macchinario, e come è stato diagnosticato il problema
 2. Funzionamento e utilizzo dei software principale (BM e CircuitCam)
 3. Design e Prototipazione di una scheda STM32, seguendo le linee guida del produttore
 
