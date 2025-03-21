@@ -24,12 +24,15 @@ che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto 
 
 ![Protomat_42_Schematics_1](https://github.com/user-attachments/assets/f49a32e9-4557-433c-9969-6609ffc4387a)
 
-XXX FOTO STRUTTURA DI RITORNO TESTA xxx
+![1000000056](https://github.com/user-attachments/assets/b8df6bba-9414-42e7-8cdb-f1ac6a3e0879)
+
+
    ## Struttura di movimento delle assi
    Le assi sono controllare da 2 motori passo-passo COD. C9783-9212K, che vanno a controllare i due assi ,tramite un meccanismo a vite a ricircolo di sfere(Ball Screw) e a delle guide lineari, motori passo-passo di ricambio sono disponibili a un prezzo molto contenuto (intorno ai 100 euro cad.) anche se è improbabile una problematica in questi ultimi
    ![Protomat_42_Schematics_2](https://github.com/user-attachments/assets/46ac16c5-b4ae-402b-b0fb-f9cbe28cb19c)
    
-XXX FOTO STRUTTURA BALL SCREW E SERVOMOTORI XXX
+![1000000059](https://github.com/user-attachments/assets/00b071e6-ae8b-469f-87a4-6e010ead619c)
+
 
 ## Struttura di protezione e isolamento acustico, aspiratore e telecamera
    La macchina ha vari optional tra cui :
