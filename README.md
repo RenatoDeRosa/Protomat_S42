@@ -40,7 +40,7 @@ che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto 
    Una custodia che funge da protezione e da isolante acustico, abbiamo la fortuna di avere una macchina con questo tipo di optional
 ## Telecamera per creazione di buchi referenziali
    purtroppo per quanto riguarda  la telecamera non ne siamo in possesso
-   la funzione della telecamera può essere facilmente sostituito da una telecamera generica USB e da un software come openPNP per gestire l'offset della telecamera ed averla
+   la funzione della telecamera può essere facilmente sostituito da una telecamera generica USB per gestire l'offset della telecamera ed averla
    perfettamente all'ineata alla punta (cosa che andremo a montare e trattare successivamente)
    
    ![fiducial camera](https://github.com/user-attachments/assets/16099803-8641-44bc-84db-1c4dcf4e1ae5)
