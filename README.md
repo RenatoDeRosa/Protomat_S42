@@ -54,3 +54,4 @@ che mi hanno permesso di assentarmi durate determinate ore di lezione, ho avuto 
   
    ![vacuum](https://github.com/user-attachments/assets/709ce684-95ca-42df-b70b-fae999fa515f)
 
+# Software e Utilizzo base
